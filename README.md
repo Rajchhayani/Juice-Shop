@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?style=flat-square)
 ![Tool](https://img.shields.io/badge/Tool-Burp%20Suite-orange?style=flat-square)
 ![Juice Shop](https://img.shields.io/badge/Juice%20Shop-v17.3.0-brightgreen?style=flat-square)
-![Challenges](https://img.shields.io/badge/Challenges%20Solved-40%2B-critical?style=flat-square)
+![Challenges](https://img.shields.io/badge/Challenges%20-40%2B-critical?style=flat-square)
 ![License](https://img.shields.io/badge/Use-Educational%20Only-blue?style=flat-square)
 
 ---
