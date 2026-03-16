@@ -90,7 +90,7 @@ This engagement followed a structured testing lifecycle:
 Reconnaissance → Mapping → Vulnerability Discovery → Exploitation → Reporting
 ```
 
-1. **Passive recon** — Review JS source, robots.txt, sitemap, and API docs
+1. **Passive recon** — Review JS source, robots.txt, sitemap
 2. **Active mapping** — Burp Spider + manual endpoint enumeration
 3. **Vulnerability testing** — Input fuzzing, auth bypass, privilege escalation
 4. **Exploitation** — Targeted payloads for confirmed vulnerabilities
